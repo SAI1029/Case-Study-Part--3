@@ -1,0 +1,15 @@
+.text_images_and_result{
+    border-radius: 15px;
+    box-shadow: 5px solid black ;
+}
+
+.text_images_and_result img{
+    height: 300px;
+    width: 300px;
+}
+body{
+    background-color:chartreuse;
+}
+h1{
+    color: red;
+}
